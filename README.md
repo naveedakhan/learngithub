@@ -1,4 +1,4 @@
 # learngithub
 This is my learning Repo
 <br>
-Author - Naveed
+Author - Naveed Afzal Khan
